@@ -1,0 +1,22 @@
+#ritisha {
+    height: 550px;
+    background-color: darksalmon;
+    
+    
+    
+}
+
+#app {
+    width: 100%;
+    height: 800px;
+    background-color: aliceblue;
+}
+
+.container {
+    text-align: center;
+}
+
+.it{
+    width: 210px;
+    height:250px;
+}
